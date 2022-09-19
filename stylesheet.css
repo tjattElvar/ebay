@@ -599,9 +599,6 @@ input[type="radio"]:focus {
 .row a,.container a {
 	text-decoration: none;
 }
-.row a:hover,.container a:hover {
-	color: #555;
-}
 .tab-content ul {
 	margin: 0;
 	padding: 0;
