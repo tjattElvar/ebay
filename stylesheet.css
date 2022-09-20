@@ -206,7 +206,7 @@ footer {
     font-weight: 400;
     color: #fff;
     text-align: left;
-    background: #ff2635;
+    background: #FF98A8;
     padding: 5px 15px;
     margin: 20px 0 0
 }
@@ -437,13 +437,12 @@ input[type='checkbox']
 .lbl-toggle { 
 	display: block; 
 	font-weight: bold; 
-	font-family: monospace; 
 	font-size: 1.2rem; 
 	text-transform: uppercase; 
-	text-align: center; 
+	text-align: left; 
 	padding: 1rem; 
 	color: #DDD; 
-	background: #0069ff; 
+	background: #FF98A8; 
 	cursor: pointer; 
 	border-radius: 7px; 
 	transition: all 0.25s ease-out; 
