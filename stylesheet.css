@@ -19,7 +19,7 @@ body {
 .clear {
     clear: both
 }
-td {
+tr {
 	padding: 10px, 0px;
 	text-align: left;
 }
