@@ -488,6 +488,10 @@ input[type='checkbox']
 	border-bottom-right-radius: 7px; 
 	padding: .5rem 1rem; 
 } 
+.collapsible-content tr { 
+	text-align: left; 
+	padding left: 10px;
+}
 .collapsible-content p { 
 	margin-bottom: 0; 
 }
