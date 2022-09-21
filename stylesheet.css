@@ -19,9 +19,12 @@ body {
 .clear {
     clear: both
 }
-td {
+tr {
 	padding: 10px;
 	text-align: left;
+}
+tbody {
+	width: 100%;
 }
 
 .containerWidth {
@@ -496,6 +499,3 @@ input[type='checkbox']
 	margin-bottom: 0; 
 }
 
-td autods_product_specific_key {
-	padding-left: 25px;
-}
