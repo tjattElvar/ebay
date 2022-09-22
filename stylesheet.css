@@ -365,7 +365,7 @@ footer {
 }
 
 .navbar-default {
-    background-color: #FF98A8!important;
+    background-color: #7556F0!important;
     border-color: #fff;
 }
 
@@ -450,7 +450,7 @@ input[type='checkbox']
 	text-align: left;
 	text-transform: uppercase; 
 	padding: 1rem; 
-	background: #FF98A8; 
+	background: #7556F0; 
 	cursor: pointer; 
 	border-radius: 7px; 
 	transition: all 0.25s ease-out; 
